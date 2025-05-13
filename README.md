@@ -57,6 +57,15 @@ O Expo abrirá um painel no navegador com um QR Code. Você pode:
 
 ---
 
+### 🔐 Informações de login
+
+Para acessar o aplicativo, utilize as credenciais abaixo na tela de login:
+
+📧 E-mail: aluno@exemplo.com
+🔒 Senha: 123456
+
+---
+
 ### 📁 Estrutura do projeto
 
 ```
